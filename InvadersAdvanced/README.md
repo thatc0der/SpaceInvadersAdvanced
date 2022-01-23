@@ -21,4 +21,4 @@ If your Java path isn't configured correctly, you can also navigate to the direc
 Requires Java 7 or higher.
 
 ### Resources
-[Space Invaders Regular (font)](http://www.fonts2u.com/space-invaders-regular.font) - &copy; Hagin Onyango 2019
+[Space Invaders Regular (font)](http://www.fonts2u.com/space-invaders-regular.font)
