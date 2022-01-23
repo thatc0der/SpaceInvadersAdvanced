@@ -1,4 +1,4 @@
-Invaders
+Space Invaders Advanced
 =
 [Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders) clone, developed in Java.
 
